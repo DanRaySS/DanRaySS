@@ -2,8 +2,6 @@
 <h3 align="center">Frontend developer </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DanRaySS&label=Profile%20views&color=0e75b6&style=flat" alt="DanRaySS-ProfileViews" /> </p>
-<p align="center"> <a href="https://wakatime.com/badge/user/018dd157-91fb-4fdf-944d-b629c6f0719e/project/018e47c5-bef6-4c92-a01a-40bc08eb15f1"><img src="https://wakatime.com/badge/user/018dd157-91fb-4fdf-944d-b629c6f0719e/project/018e47c5-bef6-4c92-a01a-40bc08eb15f1.svg" alt="wakatime"></a> </p>
-
 
 <p align="center"> 👨‍🔬 Experience: 2 years of Frontend, 6 months of Backend </p>
 <p align="center"> 🎓 IT: Ural Federal University, 👨‍💻 <b> software engineering </b> </p>
