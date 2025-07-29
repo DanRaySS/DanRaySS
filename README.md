@@ -5,7 +5,7 @@
 
 <p align="center"> 👨‍🔬 Experience: 2 years of Frontend, 6 months of Backend </p>
 <p align="center"> 🎓 IT: Ural Federal University, 👨‍💻 <b> software engineering </b> </p>
-<p align="center"> 📫 How to reach me: t.me/danrayolo </p>
+<p align="center"> 📫 How to reach me: t.me/danilmux </p>
 <!-- <p align="center"> ⚡ Fun fact: ... </p> -->
 
 <h3 align="center">My Stack: </h3>
